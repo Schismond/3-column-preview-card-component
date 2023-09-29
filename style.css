@@ -48,7 +48,7 @@ button {
   border-bottom-right-radius: 8px;
 }
 
-.title {
+.title h1{
   font-family: var(--primary-font);
   font-size: 2.5rem;
 }
